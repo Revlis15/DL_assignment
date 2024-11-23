@@ -2,7 +2,7 @@
 
 ### Usage
 ```
-git clone 
+git clone https://github.com/Revlis15/DL_assignment.git
 
 cd Unet_Polyp_Implement
 
