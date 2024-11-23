@@ -4,7 +4,7 @@
 ```
 git clone https://github.com/Revlis15/DL_assignment.git
 
-cd Unet_Polyp_Implement
+cd DL_assignment
 
 <!-- Download checkpoint from this link  >
 <!-- conda create -n UnetImplementTest python=3.10
