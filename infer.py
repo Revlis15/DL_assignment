@@ -103,7 +103,7 @@ def main():
     args = parse_args()
     
     try:
-        model = BKAIPolypModel.load_from_checkpoint('checkpoints-20241123T123919Z-001/checkpoints/model/model.ckpt')
+        model = BKAIPolypModel.load_from_checkpoint('checkpoints-20241123T153032Z-001\checkpoints\model\model.ckpt')
         model.eval()
         
         device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
